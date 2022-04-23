@@ -45,9 +45,11 @@
 
 #### 关于pybluez库
 ##### 依赖库安装
-`pip install pybluez`
-**注：pybluez库依赖于C++环境，在安装pybluez前请先确保电脑上已安装C++桌面开发环境，否则报错**
-**注：由于pybluez库已长时间无人更新，直接安装会出现错误，故请按照此方法创建文件link以使pip成功安装**
+`pip install pybluez`  
+**注：pybluez库依赖于C++环境，在安装pybluez前请先确保电脑上已安装C++桌面开发环境，否则报错**  
+**注：由于pybluez库已长时间无人更新  
+      若电脑上安装的Microsoft Visual C++2015-2022 Redistributable较新  
+      则直接安装会出现错误，故请按照此方法创建文件link以使pip成功安装**  
 https://blog.csdn.net/w12w12w12/article/details/116466157
 
 #### 关于开源使用
