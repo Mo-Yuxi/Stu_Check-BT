@@ -11,7 +11,7 @@
   - [x] 添加、删除学生列表内的学生
 
 #### 运行图
-![image](https://raw.githubusercontent.com/?/master/img/run.png)
+![image](https://raw.githubusercontents.com/Mo-Yuxi/Stu_Check-BT/main/img/run.png)
 
 ### 使用方法
 
