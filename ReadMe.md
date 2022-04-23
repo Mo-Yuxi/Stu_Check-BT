@@ -55,4 +55,4 @@ https://blog.csdn.net/w12w12w12/article/details/116466157
 #### 关于开源使用
   本项目基于GNU GPLv3协议进行开源
 
-![image](https://camo.githubusercontent.com/db9cc5f2f01568952f34f4a58faf3198cd147d9f4a90db0918cd45484c3e544e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f5465636858756558692f5465636858756558692e737667)
+![image](https://raw.githubusercontents.com/Mo-Yuxi/Stu_Check-BT/main/img/GPL.png)
